@@ -14,7 +14,7 @@ This Java project demonstrates the implementation of a multi-account banking sys
 
 The project is organized into several classes:
 
-- `Customer`: The main class demonstrating the banking system's functionality.
+- `Main`: The main class demonstrating the banking system's functionality.
 - `BankService`: The facade class that provides simplified access to banking operations.
 - `IAccount`: An interface defining common banking operations.
 - `Checking`, `Saving`, and `Investment`: Implementations of account types.
