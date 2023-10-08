@@ -45,6 +45,8 @@ Forhan Shahriar Fahim
 
 ## UML Class Diagram
 
-![Assignment-3 Multi-Account Banking System with Facade Pattern.drawio](Assignment-3 Multi-Account Banking System with Facade Pattern.drawio.png)
+## UML Class Diagram
+
+![Multi-Account Banking System Class Diagram](Assignment-3%20Multi-Account%20Banking%20System%20with%20Facade%20Pattern.drawio.png)
 
 This UML class diagram illustrates the structure of the multi-account banking system and its relationships between classes.
