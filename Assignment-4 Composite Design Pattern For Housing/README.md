@@ -9,7 +9,7 @@ This Java program demonstrates the implementation of the Composite Design Patter
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
-- [License](#license)
+
 ## Project Overview
 
 The project demonstrates the Composite Design Pattern, where a complex structure (the building) is composed of smaller, similar structures (floors and rooms). The program allows you to interact with the building and its components, such as entering and exiting rooms.
