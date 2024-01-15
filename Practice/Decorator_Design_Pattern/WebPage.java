@@ -1,0 +1,3 @@
+interface WebPage {
+    void display();
+}
